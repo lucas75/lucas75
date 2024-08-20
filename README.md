@@ -15,19 +15,18 @@ I'm @Lucas75
   with more than 400 employees.  
  
 * I embraced agile methodologies, devops and bigdata even before they 
-  was called that and I have difficult to understand senior developers 
-  that aren't also a busness specialists and responsible by the business 
-  goals of the company/department. Afer all, the developer must understand 
-  what is being developed will be used for. 
+  was called that. I have difficult to understand developers that aren't
+  also busness specialists and responsible by the business goals of the
+  company/department they work for.
   
 * As developers we study the rules of information and processing like
   data relations, dependency, queues, division of work, parallel processing 
   and this makes us capable of percieving things about the company business 
-  that very few people can. 
+  that very few people can.
 
-* I found important to understand the algorithms, languages and plataforms
-  can be learned in weeks to months. But the knowledge of the purpose of
-  the informations, data modelling and algorithms that make a difference.
+* And the characteristics of the products are dictated by the side effects
+  of the technologies used and the design of a software will dictate where
+  people must be allocated on the company.
   
 * I begin my professional carrer as a C/C++ developer, but quickly moved
   to java/php on the server side. There is a lot of better languages than
@@ -39,14 +38,15 @@ I'm @Lucas75
   and handle very well databases with several terabytes, several billion
   records and a lot of people working at the same time. 
 
-* Latelly, I experimented with Rust and found to be an excellent language,
-  and even better tooling. But, but it lacks support for exception handling
-  and therefore has no use for my workflows. 
+* In the last 20 years I worked with a combo of Java, PHP and PostgreSQL
+  which is a greate combination.
 
-* Latelly I am studying migration to Kotlin language, initially in jvm, 
-  but hopefull that kotlin new memory management will work. 
+* From 2024, I accepted a new challenge in my carrer and we are creating
+  new business soluctions using DotNet/C#. It was not my choice, but I
+  discovered that DotNet improved a lot since become open source and is
+  now competitive with GoLang.   
   
-* And of course: Python because it is great for some data analysis tasks
+* I also use Python because it is great for some data analysis tasks
   and statistics. But I avoid using Python in production because it is 
   too slow and its a dependency nightmare: Code developed today is not
   expected to work 6 months from now.
